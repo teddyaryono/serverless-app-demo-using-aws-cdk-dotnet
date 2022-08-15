@@ -12,6 +12,8 @@ Before we begin, we will need to login into AWS Cloud9. Cloud9 is a cloud-based 
 
 To access Cloud9 search for Cloud9 in the AWS Console and click on Cloud9.
 
+**_NOTE: If you are at an AWS event, there might be some initial resources already provisioned for you. Otherwise, use the CloudFormation template in this repository (in the `LabCfnTemplate` directory) and create the required resources before you start._**
+
 
 ![05_Cloud9_1](./images/05_Cloud9_1.jpg)
 
