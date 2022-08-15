@@ -324,4 +324,4 @@ This sample code is made available under a modified MIT license. See the LICENSE
 
 ## Feedback Survey
 
-Thank you for your interest in this lab. We would love your feedback. Kindly fill out this [survey](https://eventbox.dev/survey/Q9O3WQU).
+Thank you for your interest in this lab. We would love your feedback. Kindly fill out this [survey](https://github.com/teddyaryono/dotc-devlab-anz-2022/blob/main/README.md).
