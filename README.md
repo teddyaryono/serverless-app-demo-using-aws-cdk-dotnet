@@ -83,7 +83,7 @@ npm install -g aws-cdk@2.23.0
 On your local machine, clone the AWS CDK application with the following command:
 
 ```shell
-git clone https://github.com/aws-samples/serverless-app-demo-using-aws-cdk-dotnet.git
+git clone https://github.com/teddyaryono/serverless-app-demo-using-aws-cdk-dotnet.git
 ```
 
 Directory structure after cloning:
