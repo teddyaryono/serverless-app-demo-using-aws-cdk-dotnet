@@ -6,14 +6,13 @@
 ![00_architecture](./images/00_architecture.jpg)
 
 
+**_NOTE: Before you begin, provision your AWS account. Use the CloudFormation template in this repository (in the `LabCfnTemplate` directory) and create the required resources before you start._**
+
 ## Let's get started
 
 Before we begin, we will need to login into AWS Cloud9. Cloud9 is a cloud-based integrated development environment (IDE) that lets you write and run code with just a browser. All code required to setup the lab is prepared, participants are only required to run the scripts in Cloud9.
 
 To access Cloud9 search for Cloud9 in the AWS Console and click on Cloud9.
-
-**_NOTE: If you are at an AWS event, there might be some initial resources already provisioned for you. Otherwise, use the CloudFormation template in this repository (in the `LabCfnTemplate` directory) and create the required resources before you start._**
-
 
 ![05_Cloud9_1](./images/05_Cloud9_1.jpg)
 
@@ -326,4 +325,4 @@ This sample code is made available under a modified MIT license. See the LICENSE
 
 ## Feedback Survey
 
-Thank you for your interest in this lab. We would love your feedback. Kindly fill out this [survey](https://eventbox.dev/survey/C5027QE).
+Thank you for your interest in this lab. We would love your feedback. Kindly fill out this [survey](https://eventbox.dev/survey/04OSSY7).
